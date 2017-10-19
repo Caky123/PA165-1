@@ -4,5 +4,8 @@
 test-output
 .classpath
 *.iml
+*.jar
+*.class
 *~
 target
+
